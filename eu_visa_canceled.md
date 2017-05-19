@@ -117,3 +117,5 @@
 
 > Автор: Сергій Сидоренко,
 > редактор "Європейської правди"
+
+[Коментарі](https://github.com/YuriiStetsula/BSA_Lecture-1_hw/issues/2)

@@ -16,3 +16,5 @@
 
 Повний список осіб можна подивитися [тут](http://www.president.gov.ua/storage/j-files-storage/00/40/26/39e6a69b837b8f15f8885e00fbd9bae2_1494864880.pdf).
 Українська правда
+
+[Коментарі](https://github.com/YuriiStetsula/BSA_Lecture-1_hw/issues/1)
